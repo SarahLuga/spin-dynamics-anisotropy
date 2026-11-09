@@ -18,9 +18,9 @@ Parameters: K⊥/γB = π/10, K∥/γB = −0.1, θ = π/4, φ = 0.
 - **Spin-1**: clear periodic patterns (full quantum revivals) for the initial state m = 0 and for the Schrödinger cat state (|−1⟩ + |+1⟩)/√2. The states m = ±1 show no clear pattern.
 - **Spin-3/2**: no clear revival for any tested initial state (m = ±1/2, ±3/2, cat state), which indicates interference between incommensurate phase factors.
 
-Plots are in the `figures/` folder, and the full write-up is in `report.pdf`.
+Plots are in the `figures/` folder, and the full write-up is in `report_project_anisotropy(1).pdf`.
 
-![Spin-1 cat state](figures/spin1_catstate.png)
+
 
 ## Files
 
@@ -28,7 +28,7 @@ Plots are in the `figures/` folder, and the full write-up is in `report.pdf`.
 |------|-------------|
 | `spin_dynamics.py` | Simulation for any spin (1/2, 1, 3/2), all initial states |
 | `figures/` | Generated plots |
-| `report.pdf` | Project report |
+| `report_project_anisotropy(1).pdf` | Project report |
 
 ## How to run
 
